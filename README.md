@@ -1,2 +1,2 @@
-# Xbox_Gamepad_Controller
-test
+# Xbox Gamepad Controller
+To connect Xbox gamepad
